@@ -1,0 +1,2 @@
+    // string pap;
+    // cin>>pap;
